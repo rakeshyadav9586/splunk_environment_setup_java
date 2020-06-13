@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="G:/My Drive/D/Eclipse/Jar/bridj-0.7.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="G:/My Drive/D/Eclipse/Jar/client-combined-3.141.59.jar"/>
+	<classpathentry exported="true" kind="lib" path="G:/My Drive/D/Eclipse/Jar/client-combined-3.141.59-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="G:/My Drive/D/Eclipse/Jar/commons-cli-1.3.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="G:/My Drive/D/Eclipse/Jar/commons-collections-3.2.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="G:/My Drive/D/Eclipse/Jar/commons-configuration-1.10.jar"/>
+	<classpathentry exported="true" kind="lib" path="G:/My Drive/D/Eclipse/Jar/commons-exec-1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="G:/My Drive/D/Eclipse/Jar/commons-io-2.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="G:/My Drive/D/Eclipse/Jar/commons-lang-2.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="G:/My Drive/D/Eclipse/Jar/commons-logging-1.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="G:/My Drive/D/Eclipse/Jar/commons-net-3.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="G:/My Drive/D/Eclipse/Jar/dx-1.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="G:/My Drive/D/Eclipse/Jar/jcommon-1.0.23.jar"/>
+	<classpathentry exported="true" kind="lib" path="G:/My Drive/D/Eclipse/Jar/jfreechart-1.0.19.jar"/>
+	<classpathentry exported="true" kind="lib" path="G:/My Drive/D/Eclipse/Jar/jgoodies-common-1.8.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="G:/My Drive/D/Eclipse/Jar/jgoodies-forms-1.9.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="G:/My Drive/D/Eclipse/Jar/jintellitype-1.3.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="G:/My Drive/D/Eclipse/Jar/jsch-0.1.55.jar"/>
+	<classpathentry exported="true" kind="lib" path="G:/My Drive/D/Eclipse/Jar/jxgrabkey-1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="G:/My Drive/D/Eclipse/Jar/log4j-1.2.17.jar"/>
+	<classpathentry exported="true" kind="lib" path="G:/My Drive/D/Eclipse/Jar/qtaste-kernel-3.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="G:/My Drive/D/Eclipse/Jar/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry exported="true" kind="lib" path="G:/My Drive/D/Eclipse/Jar/serializer-2.7.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="G:/My Drive/D/Eclipse/Jar/sikuli-3.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="G:/My Drive/D/Eclipse/Jar/sikulixapi-1.1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="G:/My Drive/D/Eclipse/Jar/sikulixlibslux-1.1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="G:/My Drive/D/Eclipse/Jar/sikulixlibswin-1.1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="G:/My Drive/D/Eclipse/Jar/swing-layout-1.0.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="G:/My Drive/D/Eclipse/Jar/syntaxpane-1.1.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="G:/My Drive/D/Eclipse/Jar/xalan-2.7.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="G:/My Drive/D/Eclipse/Jar/xercesImpl-2.11.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="G:/My Drive/D/Eclipse/Jar/xml-apis-1.3.04.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
